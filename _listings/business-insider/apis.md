@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2639-busin
 x-kinRank: "7"
 x-alexaRank: "374"
 tags: Blog
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/business-insider/apis.md
 specificationVersion: "0.14"
 apis: []

@@ -1,9 +1,10 @@
+---
 swagger: "2.0"
 x-collection-name: Shopify
-x-complete: 1
+x-complete: 0
 info:
-  title: Shopify API
-  description: todo-add-description
+  title: Shopify Update a blog
+  description: Update a blog.
   version: 1.0.0
 host: DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com
 basePath: /
@@ -133,54 +134,17 @@ paths:
       tags:
       - Commerce
       - Blog
-    delete:
-      summary: Delete a blog
-      description: Delete a blog.
-      operationId: deleteAdminBlogs92408974.json
-      x-api-path-slug: adminblogs92408974-json-delete
-      parameters:
-      - in: header
-        name: Content-Type
-      responses:
-        200:
-          description: OK
-      tags:
-      - Commerce
-      - Blog
-  /admin/blogs/62581763/articles/197247246.json:
-    delete:
-      summary: Delete an article of a blog tags of articles
-      description: Delete an article of a blog tags of articles.
-      operationId: deleteAdminBlogs62581763Articles197247246.json
-      x-api-path-slug: adminblogs62581763articles197247246-json-delete
-      parameters:
-      - in: header
-        name: Content-Type
-      responses:
-        200:
-          description: OK
-      tags:
-      - Commerce
-      - Article
-      - Blog
-      - Tags
-      - Articles
-  /admin/blogs/62581763.json:
-    get:
-      summary: Get a single blog by its ID
-      description: Get a single blog by its id.
-      operationId: getAdminBlogs62581763.json
-      x-api-path-slug: adminblogs62581763-json-get
-      parameters:
-      - in: header
-        name: Content-Type
-      responses:
-        200:
-          description: OK
-      tags:
-      - Commerce
-      - Single
-      - Blog
-      - By
-      - Its
-      - ID
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
+---

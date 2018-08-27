@@ -30,6 +30,52 @@ paths:
           description: OK
       tags:
       - Blog
+  /blog/{pageName}{mediaTypeExtension}:
+    get:
+      summary: Get Blog Page Name Media Type Extension
+      description: Returns pages content.
+      operationId: returns-pages-content
+      x-api-path-slug: blogpagenamemediatypeextension-get
+      parameters:
+      - in: path
+        name: mediaTypeExtension
+        description: Omiting the param causes html to be returned
+      - in: path
+        name: pageName
+      responses:
+        200:
+          description: OK
+      tags:
+      - Insurance
+      - Blog
+      - Page
+      - Name
+      - Media
+      - Type
+      - Extension
+  /es/blog/{pageName}{mediaTypeExtension}:
+    get:
+      summary: GetBlog Page Name Media Type Extension
+      description: Returns pages content.
+      operationId: returns-pages-content
+      x-api-path-slug: esblogpagenamemediatypeextension-get
+      parameters:
+      - in: path
+        name: mediaTypeExtension
+        description: Omiting the param causes html to be returned
+      - in: path
+        name: pageName
+      responses:
+        200:
+          description: OK
+      tags:
+      - Insurance
+      - Blog
+      - Page
+      - Name
+      - Media
+      - Type
+      - Extension
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

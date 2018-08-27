@@ -8,6 +8,186 @@
 	"specificationVersion": "0.14",
 	"apis": [
 		{
+			"name": "ProgrammableWeb",
+			"x-api-slug": "programmableweb",
+			"description": "The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web???s most relied-on API Directory",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/96-programmableweb.jpg",
+			"humanURL": "http://www.programmableweb.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/programmableweb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ReadWrite",
+			"x-api-slug": "readwrite",
+			"description": "ReadWrite delivers on this mission by connecting and engaging with our audience by delivering content that lives at the intersection of the entrepreneurial and enterprise worlds. This is where the next great wave of products and services will be create...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/129-readwrite.jpg",
+			"humanURL": "http://readwrite.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/readwrite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tumblr",
+			"x-api-slug": "tumblr",
+			"description": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. Its where your interests connect you with your people.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/265-tumblr.jpg",
+			"humanURL": "https://www.tumblr.com/",
+			"baseURL": "https://api.tumblr.com//v2/",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/tumblr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sendible",
+			"x-api-slug": "sendible",
+			"description": "Sendible is a social media management tool that helps agencies and companies boost their productivity on social media. Try it for free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/472-sendible.jpg",
+			"humanURL": "http://sendible.com",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/sendible/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Zemanta",
+			"x-api-slug": "zemanta",
+			"description": "Zemanta is an omni-channel programmatic native DSP for media agencies to automate paid content promotion across 25+ programmatic networks & exchanges.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/539-zemanta.jpg",
+			"humanURL": "http://www.zemanta.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/zemanta/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BAD TESTING",
+			"x-api-slug": "bad-testing",
+			"description": "BAD TESTING offers software testing consulting services & helps you manage risks associated with technology changes. We offer an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effective and on time...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2619-bad-testing.jpg",
+			"humanURL": "http://www.badtesting.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/bad-testing/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Business Insider",
+			"x-api-slug": "business-insider",
+			"description": "Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007, the site is now the largest business news site on the web.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2639-business-insider.jpg",
+			"humanURL": "http://www.businessinsider.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/business-insider/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pando Daily",
+			"x-api-slug": "pando-daily",
+			"description": "We have one goal here at PandoDaily: To be the site of record for that startup root-system and everything that springs up from it, cycle-after-cycle.    That sounds simple but itll be incredibly hard to pull off. Its not something we accomplish on da...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2677-pando-daily.jpg",
+			"humanURL": "http://pando.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/pando-daily/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DigitalGov",
+			"x-api-slug": "digitalgov",
+			"description": "DigitalGov: Were helping you build a modern government.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2942-digitalgov.jpg",
+			"humanURL": "http://www.digitalgov.gov/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/digitalgov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank Innovation",
+			"x-api-slug": "bank-innovation",
+			"description": "Visa doesnt see much use for blockchain in its core business, which is transactions at scale, according to CEO Alfred Kelly. At the JPMorgan Technology, Media and Communications conference in Boston yesterday, Kelly said: Remember blockchain actually ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8717-bank-innovation.jpg",
+			"humanURL": "http://www.bankinnovation.net/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/bank-innovation/openapi.md"
+				}
+			]
+		},
+		{
 			"name": "Healthcare.gov",
 			"x-api-slug": "healthcare-gov",
 			"description": "HealthCare.gov is a health insurance exchange website operated under the United States federal government under the provisions of the Patient Protection and Affordable Care Act (ACA, often known as Obamacare), designed to serve the residents of the thirty-six U.S. states that opted not to create their own state exchanges. The exchange facilitates the sale of private health insurance plans to residents of the United States[2] and offers subsidies to those who earn less than four times the federal poverty line. The website also assists those persons who are eligible to sign up for Medicaid, and has a separate marketplace for small businesses.",
@@ -21,13 +201,365 @@
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/openapi.md"
 				}
 			]
+		},
+		{
+			"name": "Wired",
+			"x-api-slug": "wired",
+			"description": "",
+			"image": "",
+			"humanURL": "http://www.wired.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/wired/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CommaFeed",
+			"x-api-slug": "commafeed",
+			"description": "Bloat free feed reader.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/commafeed-logo.png",
+			"humanURL": "https://www.commafeed.com",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/commafeed/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "briankrebs",
+			"x-api-slug": "briankrebs",
+			"description": "Brian Krebs worked as a reporter for The Washington Post from 1995 to 2009, authoring more than 1,300 blog posts for the Security Fix blog, as well ashundreds of storiesfor washingtonpost.com and The Washington Post newspaper, including eight front-page stories in the dead-tree edition and a Post Magazine cover piece on botnet operators.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/KrebsOnSecurity-Logo.jpg",
+			"humanURL": "http://krebsonsecurity.com",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/briankrebs/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Shopify",
+			"x-api-slug": "shopify",
+			"description": "Shopify is a commerce platform that allows anyone to easily sell online at a retail location and everywhere in between. It offers a professional online storefront, a payment solution to accept credit cards, and the Shopify POS application to power retail sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png",
+			"humanURL": "https://www.shopify.com/",
+			"baseURL": "https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/shopify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FOSS Patents",
+			"x-api-slug": "foss-patents",
+			"description": "Florian Mueller used to be an award-winning intellectual property activist. His 30 years of software industry expertise span different market segments (games, education, productivity and infrastructure software), diverse business models, and technical and commercial areas of responsibility. In recent years, Florian advised a diversity of clients on the patent wars surrounding mobile devices, and on their economic and technical implications. (In order to avoid conflicts of interest, Florian does not hold or initiate transactions in any technology stocks or derivatives thereof, except that he is long AAPL.) He is now developing games for smartphones and tablet computers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/FOSS_Patents.png",
+			"humanURL": "http://www.fosspatents.com",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/foss-patents/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Light Blue Touchpaper",
+			"x-api-slug": "light-blue-touchpaper",
+			"description": "Light Blue Touchpaper is a weblog written by researchers in the Security Group at the University of Cambridge Computer Laboratory. Read here brief and timely essays on recent developments and topics related to computer security, including pointers to interesting new research results and literature, opinions on current developments, commentary on media coverage and other musings.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Light_Blue_Touchpaper___Security_Research__Computer_Laboratory__University_of_Cambridge.png",
+			"humanURL": "https://www.lightbluetouchpaper.org",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/light-blue-touchpaper/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Access Now",
+			"x-api-slug": "access-now",
+			"description": "Access Now defends and extends the digital rights of users at risk around the world. By combining innovative policy, global advocacy, and direct technical support, we fight for open and secure communications for all.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Access-Logo1.jpg",
+			"humanURL": "https://www.accessnow.org",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/access-now/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "APIFul",
+			"x-api-slug": "apiful",
+			"description": "",
+			"image": "",
+			"humanURL": "http://www.apiful.io/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/apiful/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rogers Information Security Blog",
+			"x-api-slug": "rogers-information-security-blog",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Roger_s_Information_Security_Blog_-_Since_2004__a_source_for_ranting__reviews_and_InfoSec_news.png",
+			"humanURL": "https://www.infosecblog.org/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/rogers-information-security-blog/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dark Reading",
+			"x-api-slug": "dark-reading",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dark-reading.png",
+			"humanURL": "http://www.darkreading.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/dark-reading/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Security Weekly",
+			"x-api-slug": "security-weekly",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SecurityWeekly-1000x1000-nourl.png",
+			"humanURL": "http://securityweekly.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/security-weekly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SecurityWatch",
+			"x-api-slug": "securitywatch",
+			"description": "",
+			"image": "",
+			"humanURL": "http://bhconsulting.ie/securitywatch/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/securitywatch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Liquidmatrix",
+			"x-api-slug": "liquidmatrix",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Home___Liquidmatrix_Security_Digest.png",
+			"humanURL": "https://www.liquidmatrix.org/blog/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/liquidmatrix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cisco Continuum",
+			"x-api-slug": "cisco-continuum",
+			"description": "Cisco is the worldwide leader in IT and networking. We help companies of all sizes transform how people connect, communicate, and collaborate.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20032-cisco-continuum.jpg",
+			"humanURL": "http://continuum.cisco.com/",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/cisco-continuum/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BBC News",
+			"x-api-slug": "bbc-news",
+			"description": "",
+			"image": "",
+			"humanURL": "http://www.bbc.com/news",
+			"baseURL": "https:///",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/bbc-news/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Blogger",
+			"x-api-slug": "blogger",
+			"description": "Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries. It was developed by Pyra Labs, which was bought by Google in 2003. Generally, the blogs are hosted by Google at a subdomain of blogspot.com. Blogs can also be hosted in the registered custom domain of the blogger (like www.example.com).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blogger-icon.png",
+			"humanURL": "https://www.blogger.com",
+			"baseURL": "://www.googleapis.com//blogger/v3",
+			"tags": "Blog",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/blogger/openapi.md"
+				}
+			]
 		}
 	],
 	"tags": "Blog",
 	"include": [
 		{
+			"name": "ProgrammableWeb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/programmableweb/apis.yaml"
+		},
+		{
+			"name": "ReadWrite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/readwrite/apis.yaml"
+		},
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "Tumblr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/tumblr/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "Sendible",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/sendible/apis.yaml"
+		},
+		{
+			"name": "Zemanta",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/zemanta/apis.yaml"
+		},
+		{
+			"name": "BAD TESTING",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/bad-testing/apis.yaml"
+		},
+		{
+			"name": "Business Insider",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/business-insider/apis.yaml"
+		},
+		{
+			"name": "Pando Daily",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/pando-daily/apis.yaml"
+		},
+		{
+			"name": "DigitalGov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/digitalgov/apis.yaml"
+		},
+		{
+			"name": "Bank Innovation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/bank-innovation/apis.yaml"
+		},
+		{
 			"name": "Healthcare.gov",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/apis.yaml"
+		},
+		{
+			"name": "Wired",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/wired/apis.yaml"
+		},
+		{
+			"name": "CommaFeed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/commafeed/apis.yaml"
+		},
+		{
+			"name": "briankrebs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/briankrebs/apis.yaml"
+		},
+		{
+			"name": "Shopify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/shopify/apis.yaml"
+		},
+		{
+			"name": "FOSS Patents",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/foss-patents/apis.yaml"
+		},
+		{
+			"name": "Light Blue Touchpaper",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/light-blue-touchpaper/apis.yaml"
+		},
+		{
+			"name": "Access Now",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/access-now/apis.yaml"
+		},
+		{
+			"name": "APIFul",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/apiful/apis.yaml"
+		},
+		{
+			"name": "Rogers Information Security Blog",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/rogers-information-security-blog/apis.yaml"
+		},
+		{
+			"name": "Dark Reading",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/dark-reading/apis.yaml"
+		},
+		{
+			"name": "Security Weekly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/security-weekly/apis.yaml"
+		},
+		{
+			"name": "SecurityWatch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/securitywatch/apis.yaml"
+		},
+		{
+			"name": "Liquidmatrix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/liquidmatrix/apis.yaml"
+		},
+		{
+			"name": "Cisco Continuum",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/cisco-continuum/apis.yaml"
+		},
+		{
+			"name": "BBC News",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/bbc-news/apis.yaml"
+		},
+		{
+			"name": "Blogger",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/blogger/apis.yaml"
 		}
 	]
 }
