@@ -13,8 +13,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Blog
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/apis.md
 specificationVersion: "0.14"
 apis:
@@ -31,32 +31,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/apiblogmediatypeextension-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/apiblogmediatypeextension-get-openapi.md
-- name: Healthcare - Get Blog Page Name Media Type Extension
-  x-api-slug: blogpagenamemediatypeextension-get
-  description: Returns pages content.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png
-  humanURL: http://www.healthcare.gov
-  baseURL: https://www.healthcare.gov//
-  tags: Federal Government, Federal Government, Stack Network, Insurance, Healthcare,
-    API Provider, Profiles, General Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/blogpagenamemediatypeextension-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/blogpagenamemediatypeextension-get-openapi.md
-- name: Healthcare - GetBlog Page Name Media Type Extension
-  x-api-slug: esblogpagenamemediatypeextension-get
-  description: Returns pages content.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png
-  humanURL: http://www.healthcare.gov
-  baseURL: https://www.healthcare.gov//
-  tags: Federal Government, Federal Government, Stack Network, Insurance, Healthcare,
-    API Provider, Profiles, General Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/esblogpagenamemediatypeextension-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/esblogpagenamemediatypeextension-get-openapi.md
 - name: Healthcare - Get Blog
   x-api-slug: apiblogmediatypeextension-get
   description: Returns pages content.
@@ -70,32 +44,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/apiblogmediatypeextension-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/apiblogmediatypeextension-get-openapi.md
-- name: Healthcare - Get Blog Pagename
-  x-api-slug: blogpagenamemediatypeextension-get
-  description: Returns pages content.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png
-  humanURL: http://www.healthcare.gov
-  baseURL: https://www.healthcare.gov//
-  tags: Federal Government, Federal Government, Stack Network, Insurance, Healthcare,
-    API Provider, Profiles, General Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/blogpagenamemediatypeextension-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/blogpagenamemediatypeextension-get-openapi.md
-- name: Healthcare - Get Es Blog Pagename
-  x-api-slug: esblogpagenamemediatypeextension-get
-  description: Returns pages content.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png
-  humanURL: http://www.healthcare.gov
-  baseURL: https://www.healthcare.gov//
-  tags: Federal Government, Federal Government, Stack Network, Insurance, Healthcare,
-    API Provider, Profiles, General Data
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/esblogpagenamemediatypeextension-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/blog/master/_listings/healthcare-gov/esblogpagenamemediatypeextension-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://halifax.bank.api.gallery.streamdata.io
